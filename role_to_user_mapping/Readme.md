@@ -39,7 +39,7 @@ Bob
 Charlie
 
 
-####==========
+#### ==========
 
 ### 2. Excel Output (`role_user_mapping.xlsx`)
 
@@ -60,6 +60,6 @@ Generates a structured Excel file with two columns:
    ```bash
    python mapping_txt.py
 
-###3.	The output will be saved in the same directory as:
+### 3.	The output will be saved in the same directory as:
 	•	role_user_mapping.txt (text format)
 	•	role_user_mapping.xlsx (Excel format)
