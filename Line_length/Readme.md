@@ -19,4 +19,4 @@ This Python script reads a text file and calculates the number of characters in 
 3. Run the script:
 
 ```bash
-python line_length_counter.py
+python line_length.py
